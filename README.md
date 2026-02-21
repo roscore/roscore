@@ -1,22 +1,26 @@
-# Hi there 👋, I'm roscore
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Robotics+Engineer+%F0%9F%A4%96;Robot+Control+%7C+System+Architecture;Actuator+Development+%7C+Real-Time+Systems)](https://git.io/typing-svg)
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks)
+## 🤖 About
 
-## My GitHub Stats
+> Robotics Engineer specializing in **robot control systems**, **system architecture design**, and **actuator development**.  
+> Building real-time distributed frameworks for humanoid robots.
 
-[![roscore's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore&show_icons=true&theme=radical)](https://github.com/roscore/github-readme-statsprivate=true)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,ros,matlab,cmake,linux,docker,github&theme=dark" />
+</div>
 
-## Most Starred Repositories
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roscore&repo=epos4_6dof)](https://github.com/roscore/epos4_6dof)
+## 🔥 GitHub Stats
 
-## Contact Me
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=roscore&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=roscore&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=0000" width="49%" />
+</div>
 
-You can reach me at:
+---
 
-- Email: roscore@hanyang.ac.kr
-- Email: jhwon@arobot4all.com
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/-jhwon@arobot4all.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jhwon@arobot4all.com)
+[![GitHub](https://img.shields.io/badge/-roscore-181717?style=flat-square&logo=github)](https://github.com/roscore)
